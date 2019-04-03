@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\bin\Debug\FilmArşivi.exe.config
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\bin\Debug\FilmArşivi.exe
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\bin\Debug\FilmArşivi.pdb
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.Form1.resources
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.exe
+C:\Users\Lenovo\source\repos\FilmArşivi\FilmArşivi\obj\Debug\FilmArşivi.pdb
